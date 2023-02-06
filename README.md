@@ -3,7 +3,7 @@
 ## 🖥️ Sobre Mim
 
 - 🧑‍💻  Iniciando no desenvolvimento em 2022, me reconheço como um resolvedor de problemas, com foco gigante nas coisas e com aprendizado adquirido dia após dia dando o melhor de mim em tudo que faço.
-- 🚀  Atualmente, tenho como foco principal da minha carreira a área de desenvolvimento web. Utilizo a stack JavaScript para desenvolver meus projetos.
+- 🚀  Atualmente, tenho como foco principal da minha carreira a área de desenvolvimento web. Utilizo e estudo a stack MERN para desenvolver meus projetos.
 
 ##
 
@@ -28,6 +28,9 @@
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> 
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 </div>
