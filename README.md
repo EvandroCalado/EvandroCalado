@@ -1,8 +1,5 @@
-Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Sou o Evandro Calado
-======================================================================================================================================
-
-Web Developer
--------------
+Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Sou o Evandro Web Developer
+================================================================================================================================================
 
 Iniciando no desenvolvimento em 2022, me reconheço como um resolvedor de problemas, com foco gigante nas coisas e com aprendizado adquirido dia após dia dando o melhor de mim em tudo que faço. Atualmente, tenho como foco principal da minha carreira a área de desenvolvimento web. Utilizo e estudo a stack MERN para desenvolver meus projetos.
 
@@ -33,9 +30,7 @@ Iniciando no desenvolvimento em 2022, me reconheço como um resolvedor de proble
 
 <p align="left"> <a href="https://www.github.com/evandrocalado" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/dev_evandro/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/evandro-calado/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
 <a href="http://www.github.com/evandrocalado"><img src="https://github-readme-stats.vercel.app/api?username=evandrocalado&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="evandrocalado's GitHub stats" /></a>
 
