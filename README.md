@@ -8,7 +8,7 @@ Iniciando no desenvolvimento em 2022, me reconheço como um resolvedor de proble
 
 * 🌍  Base em Pernambuco/Brasil
 * ✉️  Contato [evandrocalado07@gmail.com](mailto:evandrocalado07@gmail.com)
-* 🧠  Atualmente estudando Tests
+* 🧠  Atualmente estudando Tests e Rest API
 * 🤝  Estou aberto em colaborar em qualquer projeto
 
 ### Skills
