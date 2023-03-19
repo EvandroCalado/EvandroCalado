@@ -1,18 +1,25 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Evandro
+Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Evandro Calado
 ===============================================================================================================================
 
-Web Developer
+Desenvolvedor Frontend
 -------------
 
-Iniciando no desenvolvimento em 2022, me reconheço como um resolvedor de problemas, com foco gigante nas coisas e com aprendizado adquirido dia após dia dando o melhor de mim em tudo que faço. Atualmente, tenho como foco principal da minha carreira a área de desenvolvimento web. Utilizo e estudo a stack MERN para desenvolver meus projetos.
+🚀 Comecei meus estudos na programação em 2022. Desde então, tenho me apaixonado cada vez mais pela área e pelo desafio de resolver problemas através da programação.
 
-* 🌍  I'm based in Pernambuco/Brasil
-* ✉️  You can contact me at [evandrocalado07@gmail.com](mailto:evandrocalado07@gmail.com)
-* 🧠  I'm learning Tests e TypeScript
-* 🤝  I'm open to collaborating on anything project
 
-### Skills
+Sempre fui fascinado pela tecnologia e como ela pode mudar o mundo. Mas foi só quando comecei a aprender programação que percebi o poder que ela tem para resolver problemas de maneira eficiente e escalável. Estou animado para continuar aprendendo e descobrindo novas maneiras de aplicar minhas habilidades de programação para criar soluções inovadoras e úteis.
 
+O que mais me atrai na programação é a possibilidade de resolver problemas em escala, seja criando aplicativos, desenvolvendo sistemas complexos ou automatizando processos. Eu gosto de desafios e estou sempre procurando maneiras de resolver problemas complexos através da programação.
+
+Meu objetivo é continuar crescendo como desenvolvedor e contribuir para a construção de soluções que tenham um impacto positivo na vida das pessoas. Estou sempre procurando aprender mais, experimentar novas tecnologias e encontrar novas maneiras de resolver problemas através da programação.
+
+* 🌍  Base em Pernambuco/Brasil
+* ✉️  Você pode me contatar no email [evandrocalado07@gmail.com](mailto:evandrocalado07@gmail.com)
+* 🧠  No momento estou estudando Tests e TypeScript
+* 🤝  Estou aberto a colaborar com qualquer tipo de projeto
+* ⚡  As vezes gosto de desenhar, apesar de não ser muito bom nisso
+
+### Minhas Habilidddes
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -28,10 +35,8 @@ Iniciando no desenvolvimento em 2022, me reconheço como um resolvedor de proble
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
-
-### Socials
+### Redes Sociais
 
 <p align="left"> <a href="https://www.github.com/EvandroCalado" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/evandro-calado/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
