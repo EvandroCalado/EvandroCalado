@@ -15,7 +15,7 @@ Meu objetivo é continuar crescendo como desenvolvedor e contribuir para a const
 
 * 🌍  Base em Pernambuco/Brasil
 * ✉️  Você pode me contatar no email [evandrocalado07@gmail.com](mailto:evandrocalado07@gmail.com)
-* 🧠  No momento estou estudando Tests, TypeScript, Linux e Docker
+* 🧠  Cursando Desenvolvimento de Sistemas - ETE PE
 * 🤝  Estou aberto a colaborar com qualquer tipo de projeto
 * ⚡  As vezes gosto de desenhar, apesar de não ser muito bom nisso
 
