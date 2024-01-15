@@ -4,14 +4,15 @@ Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Desenvolvedor Frontend
 -------------
 
-🚀 Comecei meus estudos na programação em 2022. Desde então, tenho me apaixonado cada vez mais pela área e pelo desafio de resolver problemas através da programação.
+🚀 Iniciei minha jornada na programação em 2022 e desde então, venho mergulhando cada vez mais no fascinante universo da tecnologia. Minha paixão por resolver desafios por meio da programação cresceu exponencialmente ao longo do tempo.
 
+Com uma bagagem profissional diversificada, acumulei 5 anos de experiência na Coca-Cola da minha cidade, onde atuei nos setores de faturamento e tecnologia da informação. Em seguida, contribuí por dois anos em uma empresa de cimentos, focando na logística. Posteriormente, passei 1 ano na Cerveja Proibida, novamente nas áreas de faturamento e TI.
 
-Sempre fui fascinado pela tecnologia e como ela pode mudar o mundo. Mas foi só quando comecei a aprender programação que percebi o poder que ela tem para resolver problemas de maneira eficiente e escalável. Estou animado para continuar aprendendo e descobrindo novas maneiras de aplicar minhas habilidades de programação para criar soluções inovadoras e úteis.
+A tecnologia sempre me fascinou, mas foi na programação que descobri seu poder transformador para solucionar problemas de maneira eficiente e escalável. Estou empolgado em seguir aprendendo, explorando e aplicando minhas habilidades para criar soluções inovadoras e práticas.
 
-O que mais me atrai na programação é a possibilidade de resolver problemas em escala, seja criando aplicativos, desenvolvendo sistemas complexos ou automatizando processos. Eu gosto de desafios e estou sempre procurando maneiras de resolver problemas complexos através da programação.
+O que mais me atrai na programação é a capacidade de resolver problemas em escala, seja desenvolvendo aplicativos, criando sistemas complexos ou automatizando processos. Adoro desafios e estou constantemente em busca de novas formas de superar obstáculos complexos por meio da programação.
 
-Meu objetivo é continuar crescendo como desenvolvedor e contribuir para a construção de soluções que tenham um impacto positivo na vida das pessoas. Estou sempre procurando aprender mais, experimentar novas tecnologias e encontrar novas maneiras de resolver problemas através da programação.
+Meu objetivo é continuar evoluindo como desenvolvedor, contribuindo para a construção de soluções que impactem positivamente a vida das pessoas. Estou sempre aberto a aprender, experimentar novas tecnologias e descobrir maneiras inovadoras de enfrentar desafios por meio da programação.
 
 * 🌍  Base em Pernambuco/Brasil
 * ✉️  Você pode me contatar no email [evandrocalado07@gmail.com](mailto:evandrocalado07@gmail.com)
