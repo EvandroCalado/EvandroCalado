@@ -16,7 +16,7 @@ Meu objetivo é continuar evoluindo como desenvolvedor, contribuindo para a cons
 
 * 🌍  Base em Pernambuco/Brasil
 * ✉️  Você pode me contatar no email [evandrocalado07@gmail.com](mailto:evandrocalado07@gmail.com)
-* 🧠  Cursando Desenvolvimento de Sistemas - ETE PE
+* 🧠  Cursando Desenvolvimento de Sistemas - Escola Técnica de Pernambuco ETE-PE
 * 🤝  Estou aberto a colaborar com qualquer tipo de projeto
 * ⚡  As vezes gosto de desenhar, apesar de não ser muito bom nisso
 
