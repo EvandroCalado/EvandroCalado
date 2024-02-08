@@ -14,10 +14,11 @@ O que mais me atrai na programação é a capacidade de resolver problemas em es
 
 Meu objetivo é continuar evoluindo como desenvolvedor, contribuindo para a construção de soluções que impactem positivamente a vida das pessoas. Estou sempre aberto a aprender, experimentar novas tecnologias e descobrir maneiras inovadoras de enfrentar desafios por meio da programação.
 
-* 🌍  Base em Pernambuco/Brasil
+* 🌍 Base em Pernambuco/Brasil
 * ✉️  Você pode me contatar no email [evandrocalado07@gmail.com](mailto:evandrocalado07@gmail.com)
-* 🧠  Cursando Desenvolvimento de Sistemas - Escola Técnica de Pernambuco ETE-PE
-* 🤝  Estou aberto a colaborar com qualquer tipo de projeto
+* 🧠 Cursando Desenvolvimento de Sistemas - Escola Técnica de Pernambuco ETE-PE
+* 📚 Estudando atualmente python e django
+* 🤝 Estou aberto a colaborar com qualquer tipo de projeto
 * ⚡  As vezes gosto de desenhar, apesar de não ser muito bom nisso
 
 ### Minhas Habilidades
