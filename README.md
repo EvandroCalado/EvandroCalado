@@ -4,9 +4,7 @@ Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Desenvolvedor Frontend
 -------------
 
-🚀 Iniciei minha jornada na programação em 2022 e desde então, venho mergulhando cada vez mais no fascinante universo da tecnologia. Minha paixão por resolver desafios por meio da programação cresceu exponencialmente ao longo do tempo.
-
-Com uma bagagem profissional diversificada, acumulei 5 anos de experiência na Coca-Cola da minha cidade, onde atuei nos setores de faturamento e tecnologia da informação. Em seguida, contribuí por dois anos em uma empresa de cimentos, focando na logística. Posteriormente, passei 1 ano na Cerveja Proibida, novamente nas áreas de faturamento e TI.
+🚀 Com uma bagagem profissional diversificada, acumulei 5 anos de experiência na Coca-Cola da minha cidade, onde atuei nos setores de faturamento e tecnologia da informação. Em seguida, contribuí por dois anos em uma empresa de cimentos, focando na logística. Posteriormente, passei 1 ano na Cerveja Proibida, novamente nas áreas de faturamento e TI.
 
 A tecnologia sempre me fascinou, mas foi na programação que descobri seu poder transformador para solucionar problemas de maneira eficiente e escalável. Estou empolgado em seguir aprendendo, explorando e aplicando minhas habilidades para criar soluções inovadoras e práticas.
 
@@ -23,7 +21,7 @@ Meu objetivo é continuar evoluindo como desenvolvedor, contribuindo para a cons
 
 ### Projetos
 
-<b>Comfy Store</b> <a href="https://comfy-store-tau.vercel.app/" target=”_blank”>Link</a>
+<b>🛍️ Loja Online -</b> <a href="https://comfy-store-tau.vercel.app/" target=”_blank”><b>Comfy Store</b></a>
 
 ### Minhas Habilidades
 
