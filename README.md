@@ -21,6 +21,10 @@ Meu objetivo é continuar evoluindo como desenvolvedor, contribuindo para a cons
 * 🤝 Estou aberto a colaborar com qualquer tipo de projeto
 * ⚡  As vezes gosto de desenhar, apesar de não ser muito bom nisso
 
+### Projetos
+
+<b>Comfy Store</b> <a href="https://comfy-store-tau.vercel.app/" target=”_blank”>Link</a>
+
 ### Minhas Habilidades
 
 <p align="left">
