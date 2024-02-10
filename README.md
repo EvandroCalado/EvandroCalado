@@ -21,7 +21,10 @@ Meu objetivo é continuar evoluindo como desenvolvedor, contribuindo para a cons
 
 ### Projetos
 
-<b>🛍️ Loja Online -</b> <a href="https://comfy-store-tau.vercel.app/" target=”_blank”><b>Comfy Store</b></a>
+<p align="left">
+  <div>🛍️ Loja Online - <a href="https://comfy-store-tau.vercel.app/" target=”_blank” rel="noreferrer">Comfy Store</a></div>
+  <div>📰 API para blog de notícias - <a href="https://api-breaking-news.onrender.com/doc/" target=”_blank” rel="noreferrer">API Breaking News</a></div>
+</p>
 
 ### Minhas Habilidades
 
