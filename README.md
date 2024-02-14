@@ -1,8 +1,7 @@
 Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Evandro Calado
 ===============================================================================================================================
 
-Desenvolvedor Frontend
--------------
+### Desenvolvedor Frontend
 
 🚀 Com uma bagagem profissional diversificada, acumulei 5 anos de experiência na Coca-Cola da minha cidade, onde atuei nos setores de faturamento e tecnologia da informação. Em seguida, contribuí por dois anos em uma empresa de cimentos, focando na logística. Posteriormente, passei 1 ano na Cerveja Proibida, novamente nas áreas de faturamento e TI.
 
@@ -14,8 +13,8 @@ Meu objetivo é continuar evoluindo como desenvolvedor, contribuindo para a cons
 
 * 🌍 Base em Pernambuco/Brasil
 * ✉️  Você pode me contatar no email [evandrocalado07@gmail.com](mailto:evandrocalado07@gmail.com)
-* 🧠 Cursando Desenvolvimento de Sistemas - Escola Técnica estadual de Pernambuco ETE-PE
-* 📚 Estudando atualmente python e django
+* 🧠 Cursando Desenvolvimento de Sistemas - Escola Técnica Estadual de Pernambuco ETE-PE
+* 📚 Estudando atualmente python, tests e Typescript
 * 🤝 Estou aberto a colaborar com qualquer tipo de projeto
 * ⚡  As vezes gosto de desenhar, apesar de não ser muito bom nisso
 
