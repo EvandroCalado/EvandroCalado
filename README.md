@@ -14,7 +14,7 @@ Meu objetivo é continuar evoluindo como desenvolvedor, contribuindo para a cons
 * 🌍 Base em Pernambuco/Brasil
 * ✉️  Você pode me contatar no email [evandrocalado07@gmail.com](mailto:evandrocalado07@gmail.com)
 * 🧠 Cursando Desenvolvimento de Sistemas - Escola Técnica Estadual de Pernambuco ETE-PE
-* 📚 Estudando atualmente node, tests e Typescript
+* 📚 Estudando atualmente Node, Tests e Typescript
 * 🤝 Estou aberto a colaborar com qualquer tipo de projeto
 * ⚡  As vezes gosto de desenhar, apesar de não ser muito bom nisso
 
@@ -77,11 +77,9 @@ Meu objetivo é continuar evoluindo como desenvolvedor, contribuindo para a cons
   </a>
 </div>
 
-###
+### Estatísticas
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=evandrocalado&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=evandrocalado&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
