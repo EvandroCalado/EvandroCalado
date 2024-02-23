@@ -18,11 +18,18 @@ Meu objetivo é continuar evoluindo como desenvolvedor, contribuindo para a cons
 * 🤝 Estou aberto a colaborar com qualquer tipo de projeto
 * ⚡  As vezes gosto de desenhar, apesar de não ser muito bom nisso
 
-### Projetos
+### Projetos https://github.com/EvandroCalado/comfy-store
 
 <p align="left">
-  <div>🛍️ Loja Online - <a href="https://comfy-store-tau.vercel.app/" target=”_blank” rel="noreferrer">Comfy Store</a></div>
-  <div>📰 API para blog de notícias - <a href="https://api-breaking-news.onrender.com/doc/" target=”_blank” rel="noreferrer">API Breaking News</a></div>
+  <div>
+    🛍️ Loja Online - 
+    <a href="https://comfy-store-tau.vercel.app/" target=”_blank” rel="noreferrer">Comfy Store Live</a> | 
+    <a href="https://github.com/EvandroCalado/comfy-store" target=”_blank” rel="noreferrer">Comfy Store Repositório</a>
+  </div>
+  <div>📰 API para blog de notícias - 
+    <a href="https://api-breaking-news.onrender.com/doc/" target=”_blank” rel="noreferrer">API Breaking News</a> | 
+    <a href="https://github.com/EvandroCalado/api-breaking-news" target=”_blank” rel="noreferrer">API Breaking News</a>
+  </div>
 </p>
 
 ### Minhas Habilidades
