@@ -18,7 +18,7 @@ Meu objetivo é continuar evoluindo como desenvolvedor, contribuindo para a cons
 * 🤝 Estou aberto a colaborar com qualquer tipo de projeto
 * ⚡  As vezes gosto de desenhar, apesar de não ser muito bom nisso
 
-### Projetos https://github.com/EvandroCalado/comfy-store
+### Projetos
 
 <p align="left">
   <div>
