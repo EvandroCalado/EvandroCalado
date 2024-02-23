@@ -1,15 +1,15 @@
-Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), Sou Evandro Calado
+Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), Sou Evandro Calado - Desenvolvedor Frontend 🚀
 ===============================================================================================================================
 
-### Desenvolvedor Frontend
+### Sobre Mim
 
-🚀 Com uma bagagem profissional diversificada, acumulei 5 anos de experiência na Coca-Cola da minha cidade, onde atuei nos setores de faturamento e tecnologia da informação. Em seguida, contribuí por dois anos em uma empresa de cimentos, focando na logística. Posteriormente, passei 1 ano na Cerveja Proibida, novamente nas áreas de faturamento e TI.
+Olá, sou Evandro Calado, um desenvolvedor frontend apaixonado por criar soluções inovadoras e práticas. Com uma sólida experiência profissional de 5 anos na Coca-Cola, 2 anos na indústria de cimentos e 1 ano na Cerveja Proibida, acumulei conhecimentos nos setores de faturamento, tecnologia da informação e suporte. A tecnologia sempre me fascinou, mas foi na programação que descobri seu poder transformador.
 
-A tecnologia sempre me fascinou, mas foi na programação que descobri seu poder transformador para solucionar problemas de maneira eficiente e escalável. Estou empolgado em seguir aprendendo, explorando e aplicando minhas habilidades para criar soluções inovadoras e práticas.
+Atualmente, estou cursando Desenvolvimento de Sistemas na Escola Técnica Estadual de Pernambuco (ETE-PE), onde continuo aprimorando minhas habilidades. Estou entusiasmado em seguir aprendendo, explorando e aplicando meus conhecimentos para contribuir positivamente no desenvolvimento de soluções escaláveis.
 
-O que mais me atrai na programação é a capacidade de resolver problemas em escala, seja desenvolvendo aplicativos, criando sistemas complexos ou automatizando processos. Adoro desafios e estou constantemente em busca de novas formas de superar obstáculos complexos por meio da programação.
+### O que me motiva?
 
-Meu objetivo é continuar evoluindo como desenvolvedor, contribuindo para a construção de soluções que impactem positivamente a vida das pessoas. Estou sempre aberto a aprender, experimentar novas tecnologias e descobrir maneiras inovadoras de enfrentar desafios por meio da programação.
+O desafio de resolver problemas em escala é o que mais me atrai na programação. Seja desenvolvendo aplicativos, criando sistemas complexos ou automatizando processos, estou sempre em busca de novas formas de superar obstáculos complexos por meio da programação.
 
 * 🌍 Base em Pernambuco/Brasil
 * ✉️  Você pode me contatar no email [evandrocalado07@gmail.com](mailto:evandrocalado07@gmail.com)
@@ -24,11 +24,11 @@ Meu objetivo é continuar evoluindo como desenvolvedor, contribuindo para a cons
   <div>
     🛍️ Loja Online - 
     <a href="https://comfy-store-tau.vercel.app/" target=”_blank” rel="noreferrer">Comfy Store Live</a> | 
-    <a href="https://github.com/EvandroCalado/comfy-store" target=”_blank” rel="noreferrer">Comfy Store Repositório</a>
+    <a href="https://github.com/EvandroCalado/comfy-store" target=”_blank” rel="noreferrer">Repositório</a>
   </div>
   <div>📰 API para blog de notícias - 
     <a href="https://api-breaking-news.onrender.com/doc/" target=”_blank” rel="noreferrer">API Breaking News</a> | 
-    <a href="https://github.com/EvandroCalado/api-breaking-news" target=”_blank” rel="noreferrer">API Breaking News</a>
+    <a href="https://github.com/EvandroCalado/api-breaking-news" target=”_blank” rel="noreferrer">Repositório</a>
   </div>
 </p>
 
