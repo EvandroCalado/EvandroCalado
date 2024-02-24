@@ -3,7 +3,7 @@ Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 ### Sobre Mim
 
-Olá, sou Evandro Calado, um desenvolvedor frontend apaixonado por criar soluções inovadoras e práticas. Com uma sólida experiência profissional de 5 anos na Coca-Cola, 2 anos na indústria de cimentos e 1 ano na Cerveja Proibida, acumulei conhecimentos nos setores de faturamento, tecnologia da informação e suporte. A tecnologia sempre me fascinou, mas foi na programação que descobri seu poder transformador.
+Desenvolvedor apaixonado por criar soluções inovadoras e práticas. Com uma sólida experiência profissional de 5 anos na Coca-Cola, 2 anos na indústria de cimentos e 1 ano na Cerveja Proibida, acumulei conhecimentos nos setores de faturamento, tecnologia da informação e suporte. A tecnologia sempre me fascinou, mas foi na programação que descobri seu poder transformador.
 
 Atualmente, estou cursando Desenvolvimento de Sistemas na Escola Técnica Estadual de Pernambuco (ETE-PE), onde continuo aprimorando minhas habilidades. Estou entusiasmado em seguir aprendendo, explorando e aplicando meus conhecimentos para contribuir positivamente no desenvolvimento de soluções escaláveis.
 
