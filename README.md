@@ -26,8 +26,12 @@ O desafio de resolver problemas em escala é o que mais me atrai na programaçã
     <a href="https://comfy-store-tau.vercel.app/" target=”_blank” rel="noreferrer">Comfy Store Live</a> | 
     <a href="https://github.com/EvandroCalado/comfy-store" target=”_blank” rel="noreferrer">Repositório</a>
   </div>
+  <div>💻 API de busca de empregos - 
+    <a href="https://jobifyapi-production.up.railway.app/api/v1/docs/" target=”_blank” rel="noreferrer">Jobify API</a> | 
+    <a href="https://github.com/EvandroCalado/jobify_api" target=”_blank” rel="noreferrer">Repositório</a>
+  </div>
   <div>📰 API para blog de notícias - 
-    <a href="https://api-breaking-news.onrender.com/doc/" target=”_blank” rel="noreferrer">API Breaking News</a> | 
+    <a href="https://api-breaking-news.onrender.com/doc/" target=”_blank” rel="noreferrer">Breaking News API</a> | 
     <a href="https://github.com/EvandroCalado/api-breaking-news" target=”_blank” rel="noreferrer">Repositório</a>
   </div>
 </p>
