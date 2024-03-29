@@ -3,13 +3,39 @@ Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 ### Sobre Mim
 
-Desenvolvedor apaixonado por criar soluções inovadoras e práticas. Com uma sólida experiência profissional de 5 anos na Coca-Cola, 2 anos na indústria de cimentos e 1 ano na Cerveja Proibida, acumulei conhecimentos nos setores de faturamento, tecnologia da informação e suporte. A tecnologia sempre me fascinou, mas foi na programação que descobri seu poder transformador.
+🚀 Desenvolvedor Frontend Apaixonado em Busca de Novos Desafios 🚀
 
-Atualmente, estou cursando Desenvolvimento de Sistemas na Escola Técnica Estadual de Pernambuco (ETE-PE), onde continuo aprimorando minhas habilidades. Estou entusiasmado em seguir aprendendo, explorando e aplicando meus conhecimentos para contribuir positivamente no desenvolvimento de soluções escaláveis.
+Depois de anos imerso no universo de vendas e faturamento, finalmente decidi seguir meu fascínio pelo desenvolvimento frontend. Guiado por uma verdadeira paixão por interfaces intuitivas e design responsivo, estou empenhado em me tornar um especialista nessa área excitante e contribuir para a criação de experiências web verdadeiramente excepcionais.
 
-### O que me motiva?
+Minha Jornada de Aprendizado:
 
-O desafio de resolver problemas em escala é o que mais me atrai na programação. Seja desenvolvendo aplicativos, criando sistemas complexos ou automatizando processos, estou sempre em busca de novas formas de superar obstáculos complexos por meio da programação.
+💡 Mergulho nas Tecnologias: Aprofundei-me no estudo de HTML, CSS, JavaScript, React e Next, expandindo meu conhecimento para abranger também tecnologias que orbitam o mundo frontend, como Node.js, Bancos de Dados, Testes, Linux entre outras.
+
+💼 Desenvolvimento de Projetos Práticos: Desde então, venho criando uma variedade de projetos pessoais para aplicar e solidificar os conceitos aprendidos, garantindo o constante aprimoramento das minhas habilidades.
+
+📚 Aprimoramento Contínuo: Estou sempre buscando me manter atualizado com as últimas tendências do mercado, participando de cursos online, workshops e comunidades de desenvolvedores.
+
+Minhas Habilidades e Qualidades:
+
+🔍 Capacidade de Aprendizado Rápido: Tenho facilidade e entusiasmo para absorver novos conhecimentos.
+
+🔬 Pensamento Crítico e Analítico: Abordo os desafios de forma estratégica e proativa, sempre em busca das soluções mais eficientes.
+
+🎨 Atenção aos Detalhes: Meticulosidade na criação de interfaces limpas e bem estruturadas.
+
+🗣️ Comunicação Eficaz: Trabalho de forma colaborativa e me comunico de maneira clara e concisa com a equipe. Minha experiência anterior em lidar com pessoas e clientes, proveniente do mundo das vendas, me permite uma interação suave e eficaz em diversos contextos.
+
+Meu Propósito:
+
+🎯 Meu objetivo é integrar uma equipe dinâmica e inovadora onde possa aplicar minhas habilidades em desenvolvimento frontend e contribuir para a criação de websites e aplicações de alta qualidade.
+
+Convite:
+
+Convido você a explorar meu portfólio no GitHub e conhecer melhor minhas habilidades e projetos. Estou confiante de que minha paixão pela tecnologia, meu constante empenho em aprender e minhas habilidades em desenvolvimento frontend me tornam um candidato ideal para qualquer equipe.
+
+Atenciosamente!
+
+Evandro Calado
 
 * 🌍 Base em Pernambuco/Brasil
 * ✉️  Você pode me contatar no email [evandrocalado07@gmail.com](mailto:evandrocalado07@gmail.com)
