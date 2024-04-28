@@ -49,7 +49,7 @@ Evandro Calado
 <p align="left">
   <div>
     🛍️ Loja Online - 
-    <a href="https://comfy-store-tau.vercel.app/" target=”_blank” rel="noreferrer">Comfy Store Live</a> | 
+    <a href="https://comfy.evandrocalado.tech" target=”_blank” rel="noreferrer">Comfy Store Live</a> | 
     <a href="https://github.com/EvandroCalado/comfy-store" target=”_blank” rel="noreferrer">Repositório</a>
   </div>
   <div>💻 API de busca de empregos - 
