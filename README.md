@@ -49,6 +49,11 @@ Evandro Calado
 <p align="left">
   <div>
     🛍️ Loja Online - 
+    <a href="https://comfy.evandrocalado.tech" target=”_blank” rel="noreferrer">Krist Live</a> | 
+    <a href="https://github.com/EvandroCalado/krist" target=”_blank” rel="noreferrer">Repositório</a>
+  </div>
+  <div>
+    🛍️ Loja Online - 
     <a href="https://comfy.evandrocalado.tech" target=”_blank” rel="noreferrer">Comfy Store Live</a> | 
     <a href="https://github.com/EvandroCalado/comfy-store" target=”_blank” rel="noreferrer">Repositório</a>
   </div>
