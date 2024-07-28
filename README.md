@@ -1,41 +1,11 @@
 Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), Sou Evandro Calado - Desenvolvedor Frontend 🚀
 ===============================================================================================================================
 
-### Sobre Mim
+Sou um desenvolvedor frontend com sólida formação em desenvolvimento web e habilidades em backend. Apaixonado por criar interfaces de usuário eficientes e intuitivas, possuo experiência na construção de aplicações web utilizando HTML, CSS, JavaScript e frameworks como React e Next. Além disso, tenho conhecimentos em Node, Python, testes unitários, Docker e bancos de dados, o que me permite ter uma visão completa do ciclo de desenvolvimento de software.
 
-🚀 Desenvolvedor Frontend Apaixonado em Busca de Novos Desafios 🚀
+Meu compromisso é entregar soluções de alta qualidade, combinando atenção aos detalhes com uma abordagem orientada para a resolução de problemas. Sou assertivo na comunicação e trabalho bem em equipe, sempre buscando colaborar de maneira eficaz para alcançar os objetivos do projeto.
 
-Depois de anos imerso no universo de vendas e faturamento, finalmente decidi seguir meu fascínio pelo desenvolvimento frontend. Guiado por uma verdadeira paixão por interfaces intuitivas e design responsivo, estou empenhado em me tornar um especialista nessa área excitante e contribuir para a criação de experiências web verdadeiramente excepcionais.
-
-Minha Jornada de Aprendizado:
-
-💡 Mergulho nas Tecnologias: Aprofundei-me no estudo de HTML, CSS, JavaScript, React e Next, expandindo meu conhecimento para abranger também tecnologias que orbitam o mundo frontend, como Node.js, Bancos de Dados, Testes, Linux entre outras.
-
-💼 Desenvolvimento de Projetos Práticos: Desde então, venho criando uma variedade de projetos pessoais para aplicar e solidificar os conceitos aprendidos, garantindo o constante aprimoramento das minhas habilidades.
-
-📚 Aprimoramento Contínuo: Estou sempre buscando me manter atualizado com as últimas tendências do mercado, participando de cursos online, workshops e comunidades de desenvolvedores.
-
-Minhas Habilidades e Qualidades:
-
-🔍 Capacidade de Aprendizado Rápido: Tenho facilidade e entusiasmo para absorver novos conhecimentos.
-
-🔬 Pensamento Crítico e Analítico: Abordo os desafios de forma estratégica e proativa, sempre em busca das soluções mais eficientes.
-
-🎨 Atenção aos Detalhes: Meticulosidade na criação de interfaces limpas e bem estruturadas.
-
-🗣️ Comunicação Eficaz: Trabalho de forma colaborativa e me comunico de maneira clara e concisa com a equipe. Minha experiência anterior em lidar com pessoas e clientes, proveniente do mundo das vendas, me permite uma interação suave e eficaz em diversos contextos.
-
-Meu Propósito:
-
-🎯 Meu objetivo é integrar uma equipe dinâmica e inovadora onde possa aplicar minhas habilidades em desenvolvimento frontend e contribuir para a criação de websites e aplicações de alta qualidade.
-
-Convite:
-
-Convido você a explorar meu portfólio no GitHub e conhecer melhor minhas habilidades e projetos. Estou confiante de que minha paixão pela tecnologia, meu constante empenho em aprender e minhas habilidades em desenvolvimento frontend me tornam um candidato ideal para qualquer equipe.
-
-Atenciosamente!
-
-Evandro Calado
+Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento e contribuir para projetos inovadores. Se você está procurando um desenvolvedor dedicado e com uma compreensão sólida das melhores práticas de desenvolvimento, vamos conversar!
 
 * 🌍 Base em Pernambuco/Brasil
 * ✉️  Você pode me contatar no email [evandrocalado07@gmail.com](mailto:evandrocalado07@gmail.com)
