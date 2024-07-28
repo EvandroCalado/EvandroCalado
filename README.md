@@ -1,4 +1,4 @@
-Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), Sou Evandro Calado - Desenvolvedor Frontend 🚀
+Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), Sou Evandro Calado - Entry level Software Engineer 🚀
 ===============================================================================================================================
 
 Sou um desenvolvedor frontend com sólida formação em desenvolvimento web e habilidades em backend. Apaixonado por criar interfaces de usuário eficientes e intuitivas, possuo experiência na construção de aplicações web utilizando HTML, CSS, JavaScript e frameworks como React e Next. Além disso, tenho conhecimentos em Node, Python, testes unitários, Docker e bancos de dados, o que me permite ter uma visão completa do ciclo de desenvolvimento de software.
