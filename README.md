@@ -19,12 +19,12 @@ Estou sempre em busca de novos desafios e oportunidades para expandir meu conhec
 <p align="left">
   <div>
     🛍️ Loja Online - 
-    <a href="https://krist.evandrocalado.tech" target=”_blank” rel="noreferrer">Krist Live</a> | 
+    <a href="https://krist-one.vercel.app" target=”_blank” rel="noreferrer">Krist Live</a> | 
     <a href="https://github.com/EvandroCalado/krist" target=”_blank” rel="noreferrer">Repositório</a>
   </div>
   <div>
     🛍️ Loja Online - 
-    <a href="https://comfy.evandrocalado.tech" target=”_blank” rel="noreferrer">Comfy Store Live</a> | 
+    <a href="https://comfy-store-tau.vercel.app" target=”_blank” rel="noreferrer">Comfy Store Live</a> | 
     <a href="https://github.com/EvandroCalado/comfy-store" target=”_blank” rel="noreferrer">Repositório</a>
   </div>
   <div>💻 API de busca de empregos - 
