@@ -10,7 +10,7 @@ Estou sempre em busca de novos desafios e oportunidades para expandir meu conhec
 * 🌍 Base em Pernambuco/Brasil
 * ✉️  Você pode me contatar no email [evandrocalado07@gmail.com](mailto:evandrocalado07@gmail.com)
 * 🧠 Cursando Desenvolvimento de Sistemas - Escola Técnica Estadual de Pernambuco ETE-PE
-* 📚 Estudando atualmente Node.js
+* 📚 Estudando atualmente Nest.js
 * 🤝 Estou aberto a colaborar com qualquer tipo de projeto
 * ⚡  As vezes gosto de desenhar, apesar de não ser muito bom nisso
 
