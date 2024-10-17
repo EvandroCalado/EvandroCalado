@@ -27,15 +27,15 @@ Estou sempre em busca de novos desafios e oportunidades para expandir meu conhec
     <a href="https://comfy-store-tau.vercel.app" target=”_blank” rel="noreferrer">Comfy Store Live</a> | 
     <a href="https://github.com/EvandroCalado/comfy-store" target=”_blank” rel="noreferrer">Repositório</a>
   </div>
-  <div>💻 API Todo em fastAPI - 
+  <div>💻 API Todo em FastAPI - 
     <a href="https://todo-app-fastapi.fly.dev/docs" target=”_blank” rel="noreferrer">Todo App FastAPI</a> | 
     <a href="https://github.com/EvandroCalado/fast_zero" target=”_blank” rel="noreferrer">Repositório</a>
   </div>
-  <div>💻 API de busca de empregos - 
+  <div>💻 API de busca de empregos em Node - 
     <a href="https://jobifyapi-production.up.railway.app/api/v1/docs/" target=”_blank” rel="noreferrer">Jobify API swagger</a> | 
     <a href="https://github.com/EvandroCalado/jobify_api" target=”_blank” rel="noreferrer">Repositório</a>
   </div>
-  <div>📰 API para blog de notícias - 
+  <div>📰 API para blog de notícias em Node - 
     <a href="https://api-breaking-news.onrender.com/doc/" target=”_blank” rel="noreferrer">Breaking News API swagger</a> | 
     <a href="https://github.com/EvandroCalado/api-breaking-news" target=”_blank” rel="noreferrer">Repositório</a>
   </div>
