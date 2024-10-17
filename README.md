@@ -1,20 +1,15 @@
-Desenvolvedor Frontend 🚀
+Dev Evandro Calado
 ===============================================================================================================================
 
-Sou um desenvolvedor frontend com sólida formação em desenvolvimento web e habilidades em backend. Apaixonado por criar interfaces de usuário eficientes e intuitivas, possuo experiência na construção de aplicações web utilizando HTML, CSS, JavaScript e frameworks como React e Next. Além disso, tenho conhecimentos em Node, Python, testes unitários, Docker e bancos de dados, o que me permite ter uma visão completa do ciclo de desenvolvimento de software.
-
-Meu compromisso é entregar soluções de alta qualidade, combinando atenção aos detalhes com uma abordagem orientada para a resolução de problemas. Sou assertivo na comunicação e trabalho bem em equipe, sempre buscando colaborar de maneira eficaz para alcançar os objetivos do projeto.
-
-Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento e contribuir para projetos inovadores. Se você está procurando um desenvolvedor dedicado e com uma compreensão sólida das melhores práticas de desenvolvimento, vamos conversar!
+Sou um desenvolvedor Fullstack com sólida formação em desenvolvimento web. Apaixonado por criar interfaces de usuário eficientes e intuitivas, possuo experiência na construção de aplicações web utilizando JavaScript, node, python e frameworks como React, Next, Express e FastAPI. Além disso, tenho conhecimentos em Docker, bancos de dados e várias outras tecnologias que estão em volta do desenvolvimento de software.
 
 * 🌍 Base em Pernambuco/Brasil
 * ✉️  Você pode me contatar no email [evandrocalado07@gmail.com](mailto:evandrocalado07@gmail.com)
 * 🧠 Cursando Desenvolvimento de Sistemas - Escola Técnica Estadual de Pernambuco ETE-PE
 * 📚 Estudando atualmente Nest.js e arquitetura limpa
 * 🤝 Estou aberto a colaborar com qualquer tipo de projeto
-* ⚡  As vezes gosto de desenhar, apesar de não ser muito bom nisso
 
-### Projetos
+### Alguns Projetos
 
 <p align="left">
   <div>
