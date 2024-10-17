@@ -13,24 +13,24 @@ Sou um desenvolvedor Fullstack com sólida formação em desenvolvimento web. Ap
 
 <p align="left">
   <div>
-    🛍️ Loja Online - 
+    🛍️ <b>Loja Online</b> - 
     <a href="https://krist-one.vercel.app" target=”_blank” rel="noreferrer">Krist Live</a> | 
     <a href="https://github.com/EvandroCalado/krist" target=”_blank” rel="noreferrer">Repositório</a>
   </div>
   <div>
-    🛍️ Loja Online - 
+    🛍️ <b>Loja Online</b> - 
     <a href="https://comfy-store-tau.vercel.app" target=”_blank” rel="noreferrer">Comfy Store Live</a> | 
     <a href="https://github.com/EvandroCalado/comfy-store" target=”_blank” rel="noreferrer">Repositório</a>
   </div>
-  <div>📝 API Todo em Python com FastAPI - 
+  <div>📝 <b>API Todo em Python com FastAPI</b> - 
     <a href="https://todo-app-fastapi.fly.dev/docs" target=”_blank” rel="noreferrer">Todo App FastAPI swagger</a> | 
     <a href="https://github.com/EvandroCalado/fast_zero" target=”_blank” rel="noreferrer">Repositório</a>
   </div>
-  <div>💻 API de busca de empregos em Node com Express - 
+  <div>💻 <b>API de busca de empregos em Node com Express</b> - 
     <a href="https://jobifyapi-production.up.railway.app/api/v1/docs/" target=”_blank” rel="noreferrer">Jobify API swagger</a> | 
     <a href="https://github.com/EvandroCalado/jobify_api" target=”_blank” rel="noreferrer">Repositório</a>
   </div>
-  <div>📰 API para blog de notícias em Node com Express - 
+  <div>📰 <b>API para blog de notícias em Node com Express</b> - 
     <a href="https://api-breaking-news.onrender.com/doc/" target=”_blank” rel="noreferrer">Breaking News API swagger</a> | 
     <a href="https://github.com/EvandroCalado/api-breaking-news" target=”_blank” rel="noreferrer">Repositório</a>
   </div>
@@ -39,39 +39,23 @@ Sou um desenvolvedor Fullstack com sólida formação em desenvolvimento web. Ap
 ### Minhas Habilidades
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="30" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
 ### Redes Sociais
