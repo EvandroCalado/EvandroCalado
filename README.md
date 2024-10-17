@@ -28,7 +28,7 @@ Estou sempre em busca de novos desafios e oportunidades para expandir meu conhec
     <a href="https://github.com/EvandroCalado/comfy-store" target=”_blank” rel="noreferrer">Repositório</a>
   </div>
   <div>💻 API Todo em fastAPI - 
-    <a href="https://todo-app-fastapi.fly.dev/docs" target=”_blank” rel="noreferrer">JTodo App FastAPI</a> | 
+    <a href="https://todo-app-fastapi.fly.dev/docs" target=”_blank” rel="noreferrer">Todo App FastAPI</a> | 
     <a href="https://github.com/EvandroCalado/fast_zero" target=”_blank” rel="noreferrer">Repositório</a>
   </div>
   <div>💻 API de busca de empregos - 
