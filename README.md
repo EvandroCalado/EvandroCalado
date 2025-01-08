@@ -1,7 +1,7 @@
-Entry Level Software Engineer Evandro Calado
+Frontend Developer Evandro Calado
 ===============================================================================================================================
 
-Sou um desenvolvedor Fullstack com sólida formação em desenvolvimento web. Apaixonado por criar interfaces de usuário eficientes e intuitivas, possuo experiência na construção de aplicações web.
+Sou um Desenvolvedor Frontend com experiência em React.js, Next.js e TypeScript. Minha paixão é criar aplicações intuitivas, responsivas e performáticas, sempre focado na experiência do usuário. Tenho habilidades em integração com APIs usando Node.js e FastAPI, além de estilização com TailwindCSS. Estou sempre em busca de novos desafios para aprimorar minhas habilidades e entregar soluções de alta qualidade.
 
 * 🌍 Base em Pernambuco/Brasil
 * ✉️  Você pode me contatar no email [evandrocalado07@gmail.com](mailto:evandrocalado07@gmail.com)
