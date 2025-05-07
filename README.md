@@ -12,6 +12,11 @@ Sou um Desenvolvedor Frontend com experiência em React.js, Next.js e TypeScript
 ### Alguns Projetos
 
 <p align="left">
+   <div>
+    🛍️ <b>Loja Online</b> - 
+    <a href="https://storefy.evandrocalado.blog" target=”_blank” rel="noreferrer">StoreFy Live</a> | 
+    <a href="https://github.com/EvandroCalado/store-fy" target=”_blank” rel="noreferrer">Repositório</a>
+  </div>
   <div>
     🛍️ <b>Loja Online</b> - 
     <a href="https://krist-one.vercel.app" target=”_blank” rel="noreferrer">Krist Live</a> | 
