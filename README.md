@@ -1,7 +1,12 @@
-Frontend Developer Evandro Calado
+Desenvolvedor Fullstack Evandro Calado
 ===============================================================================================================================
 
-Sou um Desenvolvedor Frontend com experiência em React.js, Next.js e TypeScript. Minha paixão é criar aplicações intuitivas, responsivas e performáticas, sempre focado na experiência do usuário. Tenho habilidades em integração com APIs usando Node.js e FastAPI, além de estilização com TailwindCSS. Estou sempre em busca de novos desafios para aprimorar minhas habilidades e entregar soluções de alta qualidade.
+Profissional em transição de carreira, com mais de 10 anos de experiência nas áreas de
+faturamento, suporte técnico e TI. Desde 2022, venho me especializando em
+desenvolvimento, com foco em JavaScript, TypeScript, React.js, Next.js, Node.js e Nest.js.
+Tenho me profundado em boas práticas, testes, padrões de projeto, componentização,
+gerenciamento de estado, construção e integração de APIs REST e GraphQL. Minha
+experiência prévia em TI me proporciona uma visão analítica e foco em soluções práticas.
 
 * 🌍 Base em Pernambuco/Brasil
 * ✉️  Você pode me contatar no email [evandrocalado07@gmail.com](mailto:evandrocalado07@gmail.com)
