@@ -1,4 +1,4 @@
-Desenvolvedor Fullstack Evandro Calado
+Desenvolvedor Fullstack
 ===============================================================================================================================
 
 Profissional em transição de carreira, com mais de 10 anos de experiência nas áreas de
