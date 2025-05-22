@@ -1,12 +1,7 @@
 Desenvolvedor Fullstack
 ===============================================================================================================================
 
-Profissional em transição de carreira, com mais de 10 anos de experiência nas áreas de
-faturamento, suporte técnico e TI. Desde 2022, venho me especializando em
-desenvolvimento, com foco em JavaScript, TypeScript, React.js, Next.js, Node.js e Nest.js.
-Tenho me profundado em boas práticas, testes, padrões de projeto, componentização,
-gerenciamento de estado, construção e integração de APIs REST e GraphQL. Minha
-experiência prévia em TI me proporciona uma visão analítica e foco em soluções práticas.
+Desenvolvedor com foco em JavaScript, TypeScript, React.js, Next.js, Node.js e Nest.js. Desde 2022, venho me especializando em boas práticas de desenvolvimento, testes, padrões de projeto, componentização, gerenciamento de estado, construção e integração de APIs REST e GraphQL. Tenho uma visão analítica e foco em soluções práticas, com experiência em ambientes que exigem alta performance e organização técnica.
 
 * 🌍 Base em Pernambuco/Brasil
 * ✉️  Você pode me contatar no email [evandrocalado07@gmail.com](mailto:evandrocalado07@gmail.com)
