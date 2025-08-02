@@ -13,19 +13,9 @@ Desenvolvedor com foco em JavaScript, TypeScript, React.js, Next.js, Node.js e N
 
 <p align="left">
    <div>
-    🛍️ <b>Loja Online</b> - 
-    <a href="https://storefy.evandrocalado.blog" target=”_blank” rel="noreferrer">StoreFy Live</a> | 
-    <a href="https://github.com/EvandroCalado/store-fy" target=”_blank” rel="noreferrer">Repositório</a>
-  </div>
-  <div>
-    🛍️ <b>Loja Online</b> - 
-    <a href="https://krist-one.vercel.app" target=”_blank” rel="noreferrer">Krist Live</a> | 
-    <a href="https://github.com/EvandroCalado/krist" target=”_blank” rel="noreferrer">Repositório</a>
-  </div>
-  <div>
-    🛍️ <b>Loja Online</b> - 
-    <a href="https://comfy-store-tau.vercel.app" target=”_blank” rel="noreferrer">Comfy Store Live</a> | 
-    <a href="https://github.com/EvandroCalado/comfy-store" target=”_blank” rel="noreferrer">Repositório</a>
+    🛍️ <b>Manutenção de tickets</b> - 
+    <a href="https://ticketfy.evandrocalado.blog" target=”_blank” rel="noreferrer">Ticketfy</a> | 
+    <a href="https://github.com/EvandroCalado/ticketfy" target=”_blank” rel="noreferrer">Repositório</a>
   </div>
   <div>📝 <b>API Todo em Python com FastAPI</b> - 
     <a href="https://todo-app-fastapi.fly.dev/docs" target=”_blank” rel="noreferrer">Todo App FastAPI swagger</a> | 
