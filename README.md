@@ -4,8 +4,8 @@ Desenvolvedor Frontend
 Desenvolvedor com foco em JavaScript, TypeScript, React.js, Next.js, Node.js e Nest.js. Desde 2022, venho me especializando em boas práticas de desenvolvimento, testes, padrões de projeto, componentização, gerenciamento de estado, construção e integração de APIs REST e GraphQL. Tenho uma visão analítica e foco em soluções práticas, com experiência em ambientes que exigem alta performance e organização técnica.
 
 * 🌍 Base em Pernambuco/Brasil
-* ✉️  Você pode me contatar no email [evandrocalado07@gmail.com](mailto:evandrocalado07@gmail.com)
-* 🧠 Cursando Desenvolvimento de Sistemas - Escola Técnica Estadual de Pernambuco ETE-PE
+* ✉️ Você pode me contatar no email [evandrocalado07@gmail.com](mailto:evandrocalado07@gmail.com)
+* 🧠 Formado Desenvolvimento de Sistemas - Escola Técnica Estadual de Pernambuco ETE-PE
 * 📚 Estudando atualmente Nest.js e arquitetura limpa
 * 🤝 Estou aberto a colaborar com qualquer tipo de projeto
 
